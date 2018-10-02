@@ -3,6 +3,8 @@ dist
 .path_progress
 .rvmrc
 .ruby-version
+.idea
+.DS_Store
 *.rbc
 koans/*
 *~
